@@ -12,7 +12,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler
 
-data = pd.read_csv('/content/Energy_consumption.csv')
+data = pd.read_csv('Energy_consumption.csv')
 
 data.head()
 
