@@ -1,1 +1,6 @@
-echo (pandas seaborn matplotlib scikit-learn streamlit joblib) 
+pandas
+seaborn
+matplotlib
+scikit-learn
+streamlit
+joblib
